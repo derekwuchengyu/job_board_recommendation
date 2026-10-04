@@ -1,0 +1,8 @@
+.env
+key/
+*.json
+model/
+data/
+logs/
+__pycache__/
+*.pyc
